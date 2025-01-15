@@ -1,0 +1,2 @@
+### Run app
+`flask run`
